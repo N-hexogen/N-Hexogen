@@ -1,9 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=075186&text={HEX{0}GEN}&fontColor=c2dcf2&animation=blink&fontSize=70"></p>
 
 <div align="">
-<p align="right"><strong><samp><i></i></samp></strong></p>
+<p align="right" ><strong><samp><i></i></samp></strong></p>
 
-```
+```ruby
 ⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿             Kernel:             linux  x86_64
 ⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿            OS:                 fedora 40
 ⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠜⣿            Uptime:             18 years
