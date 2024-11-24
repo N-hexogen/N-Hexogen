@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Lang-HTML-orange?style=flat-square" alt="Lang: HTML">
   <img src="https://img.shields.io/badge/Tool-VScode-blueviolet?style=flat-square" alt="Tool: VSCode">
   <img src="https://img.shields.io/badge/Tool-Nvim-darkgreen?style=flat-square" alt="Tool: Neovim">
-  <img src="https://img.shields.io/badge/Config-nvchad-yellowgreen?style=flat-square" alt="Config: NVchad">
 </div>
 
 
