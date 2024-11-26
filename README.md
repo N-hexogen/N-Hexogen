@@ -6,7 +6,7 @@
 <div align="center" style="text-align: center;">
   <img src="https://img.shields.io/badge/Kernel-Linux-green?style=flat-square" alt="Kernel: Linux">
   <img src="https://img.shields.io/badge/OS-Fedora-blue?style=flat-square" alt="OS: Fedora">
-  <img src="https://img.shields.io/badge/Lang-C%2F%2B%2B-darkgreen?style=flat-square" alt="Lang: C/C++">
+  <img src="https://img.shields.io/badge/Lang-C%2F%2B%2B-darkgreen?style=flat-square" alt="Lang: C">
   <img src="https://img.shields.io/badge/Lang-Python-blue?style=flat-square" alt="Lang: Python">
   <img src="https://img.shields.io/badge/Lang-JavaScript-yellow?style=flat-square" alt="Lang: JavaScript">
   <img src="https://img.shields.io/badge/Lang-CSS-red?style=flat-square" alt="Lang: CSS">
